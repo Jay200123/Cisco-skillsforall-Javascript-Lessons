@@ -1,7 +1,12 @@
-const operators = require("./lessons/lesson 4/operators");
+const loops = require("./lessons/lesson 5/loops");
 
-const { ArithmeticOperators } = operators;
-ArithmeticOperators();
+const { JavascriptForLoops } = loops;
+JavascriptForLoops();
+
+// const operators = require("./lessons/lesson 4/operators");
+
+// const { ArithmeticOperators } = operators;
+// ArithmeticOperators();
 
 // const quiz = require("./lessons/lesson 3/complexQuiz");
 
